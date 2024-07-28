@@ -4,7 +4,6 @@ This README provides clear instructions and includes all the necessary details t
 
 ## Table of Contents
 
-- [Foundry Smart Contract Lottery](#foundry-smart-contract-lottery)
   - [Table of Contents](#table-of-contents)
   - [Getting Started](#getting-started)
     - [Requirements](#requirements)
